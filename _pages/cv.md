@@ -29,13 +29,13 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
+|               SAS | Regression using procedures: reg, genmod, glimmix, and nlmixed. Longitudinal analysis, including survival analysis using procedures: lifetest, phreg, glimmix. Expert macro writing, including for generating reports combining multiple analysis procedures.                             |
+|------------------:|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                 R | Tidyverse expert including use of purrr package for streamlining complex analyses. Spatial data visualization and analysis using sf package and ggplot. Bioinformatics using Bioconductor packages to normalize raw data and perform PCA and adjusted gene expression group comparisons.  |
+|            Python | Pandas, functional programming, spatial data analysis. Machine learning and causal inference with econml.                                                                                                                                                                                 |
+|             Mplus | Structural equation modelling and latent variable analysis.                                                                                                                                                                                                                               |
+|               SQL | Complex queries from relational databases, dataset management, and feature engineering.                                                                                                                                                                                                   |
+| Additional Skills | Professional communication. Manuscript and grant writing. Linux command line and cluster computing.                                                                                                                                                                                       |
 Publications
 ======
   <ul>{% for post in site.publications %}

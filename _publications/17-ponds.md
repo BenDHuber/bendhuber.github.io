@@ -1,0 +1,12 @@
+---
+title: "Comparison of ecosystem processes in a woodland and prairie pond with different hydroperiods."
+collection: publications
+permalink: /publication/10/11/17-ponds
+excerpt: 'Published'
+date: 10/11/17
+venue: 'Journal of Freshwater Ecology'
+citation: 'Daniel J. Hornbach, Mark C. Hove, Mira W. Ensley-Field, Matthew R. Glasenapp, Ian A. Goodbar, J. Douglas Harman, Benjamin D. Huber, Emily A. Kangas, Kira X. Liu, Molly Stark-Ragsdale &amp; Long K. Tran (2017) Comparison of ecosystem processes in a woodland and prairie pond with different hydroperiods, Journal of Freshwater Ecology, 32:1, 675-695, DOI: 10.1080/02705060.2017.1393468'
+---
+Published
+
+Recommended citation: Daniel J. Hornbach, Mark C. Hove, Mira W. Ensley-Field, Matthew R. Glasenapp, Ian A. Goodbar, J. Douglas Harman, Benjamin D. Huber, Emily A. Kangas, Kira X. Liu, Molly Stark-Ragsdale & Long K. Tran (2017) Comparison of ecosystem processes in a woodland and prairie pond with different hydroperiods, Journal of Freshwater Ecology, 32:1, 675-695, DOI: 10.1080/02705060.2017.1393468
